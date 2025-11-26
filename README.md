@@ -1,7 +1,7 @@
-# Data Science Project Portfolio
+# Data Analyst Project Portfolio
 
 ### Introduction
-Welcome to my portfolio! This repository showcases a collection of six comprehensive data science and machine learning projects completed in August 2025. Each project demonstrates an end-to-end data science workflow, from data cleaning and feature engineering to model building, iterative refinement, and final evaluation.
+Welcome to my portfolio! This repository showcases a collection of six comprehensive data analyst and machine learning projects completed in August 2025. Each project demonstrates an end-to-end data science workflow, from data cleaning and feature engineering to model building, iterative refinement, and final evaluation.
 
 ---
 
